@@ -15,7 +15,7 @@ public class Employee {
         return name;
     }
 
-    public Integer getId() {
+    public Integer getIdentity() {
         return identity;
     }
 
