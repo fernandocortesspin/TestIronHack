@@ -1,5 +1,8 @@
-# Compiled class file
-*.class
+
+*.gradle
+*.DS_store
+*.idea
+build
 
 # Log file
 *.log
@@ -23,7 +26,5 @@
 hs_err_pid*
 replay_pid*
 
-*.gradle
-*.DS_store
-*.idea
-build
+# Compiled class file
+*.class
