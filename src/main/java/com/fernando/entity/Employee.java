@@ -4,19 +4,19 @@ public class Employee {
 
     public Employee(String name, Integer id) {
         this.name = name;
-        this.id = id;
+        this.identity = id;
     }
 
     private String name;
 
-    private Integer id;
+    private Integer identity;
 
     public String getName() {
         return name;
     }
 
-    public Integer getId() {
-        return id;
+    public Integer getIdentity() {
+        return identity;
     }
 
 

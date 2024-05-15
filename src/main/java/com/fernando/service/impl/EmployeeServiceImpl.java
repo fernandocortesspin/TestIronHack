@@ -1,5 +1,6 @@
 package com.fernando.service.impl;
 
+import com.fernando.entity.Employee;
 import com.fernando.repository.EmployeeRepository;
 import com.fernando.service.EmployeeService;
 
@@ -13,8 +14,11 @@ public class EmployeeServiceImpl implements EmployeeService {
 
     @Override
     public String getEmployeeNameById(int id) {
+        Employee employee = employeeRepository.getEmployeeNameById(id);
 
-        return employeeRepository.getEmployeeNameById(id).getName();
+        System.out.println(employee.getIdentity()    + " " + employee.getName());
+
+        return employee.getName();
     }
 
 }

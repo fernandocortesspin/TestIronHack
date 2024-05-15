@@ -25,7 +25,7 @@ public class EmployeeRepository {
 
     public Employee getEmployeeNameById(Integer id){
 
-        return employeeStream.filter(employee -> employee.getId().equals(id))
+        return employeeStream.filter(employee -> employee.getIdentity().equals(id))
                 .findFirst().orElseGet(null);
 
     }
