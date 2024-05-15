@@ -7,7 +7,7 @@ Crear Entity y  Enums
 
 Crear interfaces, 
 
-Interface e implementación de una Orden (Single responsability y Liskob substitution, Segregation interface)
+Interface e implementación de una Orden (Single responsability,  Segregation interface, Inversion de control ya que esta interface ProcessOrder no le importa como está implementado el pago ))
 <img width="923" alt="image" src="https://github.com/fernandocortesspin/TestIronHack/assets/112406656/b5d3433d-00ad-4278-a89c-704f0792d14a">
 
 
