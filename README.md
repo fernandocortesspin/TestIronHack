@@ -58,7 +58,22 @@ try Merge to develop and Fix conflict
 
 ![Captura de pantalla 2024-05-14 a la(s) 6 47 04 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/142a5a53-2e16-41be-aba4-bb44308bc4c5)
 
+
+
 **Task 3 Pull Request**
+
+![Captura de pantalla 2024-05-14 a la(s) 6 56 50 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/68a70fcd-ef2c-4a99-b63e-1902f56c4fff)
+
+review y merge by friend José Luis
+
+![Captura de pantalla 2024-05-14 a la(s) 6 57 03 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/0c3db509-de04-4b0d-affb-823b3358e085)
+
+<img width="1511" alt="Captura de pantalla 2024-05-14 a la(s) 7 04 56 p m" src="https://github.com/fernandocortesspin/TestIronHack/assets/112406656/f7d7ae52-3318-49ef-9474-34565fd6f932">
+
+<img width="1113" alt="image" src="https://github.com/fernandocortesspin/TestIronHack/assets/112406656/9d631e07-9c5c-4b3b-912a-7410417e7845">
+
+
+
 
 
 
