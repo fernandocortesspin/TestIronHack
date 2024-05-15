@@ -36,5 +36,35 @@
  
 **Task 2**
 
+Generate change in develop changing field name and getter
+![Captura de pantalla 2024-05-14 a la(s) 6 49 54 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/92eb6beb-0326-4a01-b76b-c6718c72a649)
+
+
+
+Generate featur branch using that field without rebase
+![Captura de pantalla 2024-05-14 a la(s) 6 42 07 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/a8290f7a-0e99-4a3b-940b-e4f326a8a55b)
+
+try Merge to develop and Fix conflict
+
+![Captura de pantalla 2024-05-14 a la(s) 6 44 37 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/15cbdbf2-aa83-4699-9fb0-e573788133fa)
+
+![Captura de pantalla 2024-05-14 a la(s) 6 45 12 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/01ff83d5-d70a-4f67-94f8-9f1a25487ee8)
+
+
+![Captura de pantalla 2024-05-14 a la(s) 6 46 05 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/693bfb9b-78bd-4c8a-8430-653ef1f8d378)
+
+![Captura de pantalla 2024-05-14 a la(s) 6 46 51 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/e433a6d4-8e49-48f0-9353-db2faed5b610)
+
+
+![Captura de pantalla 2024-05-14 a la(s) 6 47 04 p m](https://github.com/fernandocortesspin/TestIronHack/assets/112406656/142a5a53-2e16-41be-aba4-bb44308bc4c5)
+
+**Task 3 Pull Request**
+
+
+
+
+
+
+
  
 
