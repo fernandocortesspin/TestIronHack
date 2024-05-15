@@ -1,6 +1,8 @@
 
 **Lab 2**
 
+Las clases se encuentran en este repo en la ruta/package src/main/java/com/fernando/lab/two
+
 Crear Entity y  Enums
 
 <img width="1188" alt="image" src="https://github.com/fernandocortesspin/TestIronHack/assets/112406656/ac143715-b7c6-406d-947c-6c692d6204ee">
