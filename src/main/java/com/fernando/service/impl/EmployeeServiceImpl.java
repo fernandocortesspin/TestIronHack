@@ -16,7 +16,7 @@ public class EmployeeServiceImpl implements EmployeeService {
     public String getEmployeeNameById(int id) {
         Employee employee = employeeRepository.getEmployeeNameById(id);
 
-        System.out.println(employee.getId());
+        System.out.println(employee.getId() + " " + employee.getName());
 
         return employee.getName();
     }
